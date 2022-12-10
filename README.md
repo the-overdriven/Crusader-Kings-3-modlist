@@ -89,5 +89,8 @@
 [Community Flavor Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2220098919&searchtext=Community+Flavor+Pack)  
 
 mirror: [link](https://drive.google.com/file/d/12ogqo-_C1Xl3etsVtC1SukTaPRv6x4iy/view?usp=sharing) (all mods except CFP and music)  
-Installation: unpack into `C:\Program Files (x86)\Steam\steamapps\workshop\content\1158310`  
-Have to make a .mod descriptor for each mod in `%userprofile%\Documents\Paradox Interactive\Crusader Kings III\mod` and add them to `%userprofile%\Documents\Paradox Interactive\Crusader Kings III\dlc_load.json`
+
+Manual installation:
+1. unpack into `C:\Program Files (x86)\Steam\steamapps\workshop\content\1158310`  
+2. make a .mod descriptor for each mod in `%userprofile%\Documents\Paradox Interactive\Crusader Kings III\mod` 
+3. add each mod to `%userprofile%\Documents\Paradox Interactive\Crusader Kings III\dlc_load.json`
