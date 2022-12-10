@@ -88,4 +88,6 @@
 [Fullscreen Barbershop](https://steamcommunity.com/sharedfiles/filedetails/?id=2220326926&searchtext=Fullscreen+Barbershop)  
 [Community Flavor Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2220098919&searchtext=Community+Flavor+Pack)  
 
-mirror: [link](https://drive.google.com/file/d/12ogqo-_C1Xl3etsVtC1SukTaPRv6x4iy/view?usp=sharing) (all except CFP and music)
+mirror: [link](https://drive.google.com/file/d/12ogqo-_C1Xl3etsVtC1SukTaPRv6x4iy/view?usp=sharing) (all mods except CFP and music)  
+Installation: unpack into `C:\Program Files (x86)\Steam\steamapps\workshop\content`  
+Have to make a .mod descriptor for each mod in `%userprofile%\Documents\Paradox Interactive\Crusader Kings III\mod` and add them to `dlc_load.json`,
