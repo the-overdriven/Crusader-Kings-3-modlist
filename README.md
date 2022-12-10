@@ -87,3 +87,5 @@
 
 [Fullscreen Barbershop](https://steamcommunity.com/sharedfiles/filedetails/?id=2220326926&searchtext=Fullscreen+Barbershop)  
 [Community Flavor Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2220098919&searchtext=Community+Flavor+Pack)  
+
+mirror: [link](https://drive.google.com/file/d/12ogqo-_C1Xl3etsVtC1SukTaPRv6x4iy/view?usp=sharing) (all except CFP and music)
