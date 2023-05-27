@@ -76,7 +76,7 @@
 [Auto-Pause on battle complete](https://steamcommunity.com/sharedfiles/filedetails/?id=2538226195)  
 [Pervasive Crown Authority](https://steamcommunity.com/sharedfiles/filedetails/?id=2692957667)  
 [Displayed Birth and Death Dates](https://steamcommunity.com/sharedfiles/filedetails/?id=2228178763)  
-[Configurable News Feed](https://steamcommunity.com/sharedfiles/filedetails/?id=2652223391)  
+[Configurable News Feed](https://steamcommunity.com/sharedfiles/filedetails/?id=2652223391), [updated](https://steamcommunity.com/sharedfiles/filedetails/?id=2763078396)  
 [Choose Idle Pose](https://steamcommunity.com/sharedfiles/filedetails/?id=2223934527)  
 [Less Intrusive Spymaster](https://steamcommunity.com/sharedfiles/filedetails/?id=2467109423)  
 [Limited Adultery](https://steamcommunity.com/sharedfiles/filedetails/?id=2479742536)  
